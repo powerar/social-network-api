@@ -1,4 +1,4 @@
-# social-network-api
+# Social Network API
 
 ## Purpose
 A demonstration of a simple social network API with full CRUD access for users, friends, thoughts, and reactions.
