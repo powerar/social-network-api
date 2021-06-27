@@ -83,7 +83,7 @@ const userController = {
           res.status(404).json( { message: 'No user found with that id!'});
           return;
         }
-        res.json(dbFrienddata);
+        res.json(dbFriendData);
       })
       .catch(err => res.status(400).json(err));
   }
